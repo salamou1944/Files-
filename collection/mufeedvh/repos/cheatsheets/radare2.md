@@ -24,7 +24,7 @@ start doing stuff
 - `pd?` - disassemble opcodes
 - `pdf` || `pdf @[0xaddress/function_name]` - disassemble function
 - `iz` - print strings
-- `iz~[string]` - search for an _string_ (eg: `iz~password`)
+- `iz~[string]` - search for a _string_ (eg: `iz~password`)
 - `? 0xaddress` - calculate/get info of address values (read variables and stuff)
 - `CC [comment] @0xaddress` - add/remove comments
 - `ax?` - available "reference analyse" (`ref/xref`) commands
